@@ -26,3 +26,18 @@ include::modules/ztp-low-latency-for-distributed-units-dus.adoc[leveloffset=+1]
 include::modules/ztp-single-node-clusters.adoc[leveloffset=+1]
 
 include::modules/ztp-the-gitops-approach.adoc[leveloffset=+1]
+
+
+include::modules/ztp-creating-siteconfig-custom-resources.adoc[leveloffset=+1]
+
+include::modules/ztp-discovery-iso.adoc[leveloffset=+2]
+
+include::modules/ztp-checking-the-managed-cluster-status.adoc[leveloffset=+2]
+
+include::modules/ztp-configuring-a-static-ip.adoc[leveloffset=+2]
+
+include::modules/ztp-configuring-the-cluster-for-a-disconnected-environment.adoc[leveloffset=+2]
+
+include::modules/ztp-configuring-ipv6.adoc[leveloffset=+2]
+
+include::modules/ztp-troubleshooting-the-managed-cluster.adoc[leveloffset=+2]
